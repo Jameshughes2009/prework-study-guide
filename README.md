@@ -5,7 +5,6 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
-    I want to expand my knowledge of computers as I work in It
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
     To learn an prepar for the class and gain better init
 - What problem does it solve?

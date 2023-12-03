@@ -1,4 +1,4 @@
-#<James Hughes Prework Project>
+#<James-Hughes-PreworkProject>
 
 ## Description
 James Hughes Prework Project

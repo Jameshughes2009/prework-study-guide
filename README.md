@@ -6,9 +6,9 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-    To learn an prepar for the class and gain better init
+To learn an prepar for the class and gain better init
 - What problem does it solve?
-    How to st up all function 
+How to st up all function 
 - What did you learn?
     An intro to what is to come in the class
 ## Table of Contents (Optional)
@@ -37,12 +37,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ![alt text](assets/images/screenshot.png)
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 

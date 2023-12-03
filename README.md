@@ -1,4 +1,4 @@
-#<James-Hughes-PreworkProject>
+# <James-Hughes-PreworkProject>
 
 ## Description
 James Hughes Prework Project
@@ -6,7 +6,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-To learn an prepar for the class and gain better init
+To learn and prepair for the class and gain better insite for what is to come
 - What problem does it solve?
 How to st up all function 
 - What did you learn?

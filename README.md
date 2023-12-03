@@ -1,10 +1,11 @@
-# <James-Hughes-PreworkProject>
+# James-Hughes-PreworkProject
 
 ## Description
 James Hughes Prework Project
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+    Career Growth
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 To learn and prepair for the class and gain better insite for what is to come
 - What problem does it solve?

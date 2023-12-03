@@ -5,6 +5,7 @@
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 - What was your motivation?
+-   I want to expand my knowledge of computer as I currently work in IT field  
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 - What problem does it solve?
 - What did you learn?
